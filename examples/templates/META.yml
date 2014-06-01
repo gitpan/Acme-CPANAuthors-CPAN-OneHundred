@@ -2,7 +2,7 @@
 name:     Acme-CPANAuthors-CPAN-OneHundred
 version:  [% VERSION %]
 
-abstract: The CPAN Authors who currently have 100 or more distributions on CPAN
+abstract: The CPAN Authors who have 100+ distributions on CPAN
 author:
   - Barbie <barbie@cpan.org>
 

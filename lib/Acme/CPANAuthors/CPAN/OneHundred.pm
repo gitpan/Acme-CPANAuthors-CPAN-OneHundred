@@ -4,7 +4,7 @@ use warnings;
 
 {
     no strict "vars";
-    $VERSION = "1.00";
+    $VERSION = "1.01";
 }
 
 use Acme::CPANAuthors::Register (
@@ -24,8 +24,8 @@ use Acme::CPANAuthors::Register (
     'MARCEL'        => 'Marcel Gruenauer',
     'BOBTFISH'      => 'Tomas Doran',
     'ETHER'         => 'Karen Etheridge',
-    'DROLSKY'       => 'Dave Rolsky',
     'DMAKI'         => 'Daisuke Maki',
+    'DROLSKY'       => 'Dave Rolsky',
     'KENTNL'        => 'Kent Fredric',
     'GUGOD'         => 'Liu Kang Min',
     'SIMON'         => 'Simon Cozens',
@@ -33,8 +33,8 @@ use Acme::CPANAuthors::Register (
     'BDFOY'         => 'brian d foy',
     'PEVANS'        => 'Paul Evans',
     'SHLOMIF'       => 'Shlomi Fish',
-    'LBROCARD'      => 'Leon Brocard',
     'SALVA'         => 'Salvador Fandino Garcia',
+    'LBROCARD'      => 'Leon Brocard',
     'MRAMBERG'      => 'Marcus Ramberg',
     'MLEHMANN'      => 'Marc Lehmann',
 
@@ -56,7 +56,7 @@ __END__
 
 =head1 NAME
 
-Acme::CPANAuthors::CPAN::OneHundred - Remembering our fallen heroes
+Acme::CPANAuthors::CPAN::OneHundred - The CPAN Authors who have 100+ distributions on CPAN
 
 =head1 DESCRIPTION
 
@@ -65,7 +65,7 @@ used with the C<Acme::CPANAuthors> module.
 
 This module was created to capture all those CPAN Authors who have valiantly
 submitted their modules and distributions to CPAN, and now have the honour of
-maintaining 100 or more distributions on CPAN.
+currently maintaining 100 or more distributions on CPAN.
 
 =head1 THE AUTHORS
 
@@ -83,9 +83,9 @@ maintaining 100 or more distributions on CPAN.
   12.  158  NUFFIN        Yuval Kogman
   13.  157  MARCEL        Marcel Gruenauer
   14.  152  BOBTFISH      Tomas Doran
-  15.  131  ETHER         Karen Etheridge
-  16.  123  DROLSKY       Dave Rolsky
-  17.  123  DMAKI         Daisuke Maki
+  15.  132  ETHER         Karen Etheridge
+  16.  123  DMAKI         Daisuke Maki
+  17.  123  DROLSKY       Dave Rolsky
   18.  121  KENTNL        Kent Fredric
   19.  119  GUGOD         Liu Kang Min
   20.  118  SIMON         Simon Cozens
@@ -93,12 +93,12 @@ maintaining 100 or more distributions on CPAN.
   22.  112  BDFOY         brian d foy
   23.  107  PEVANS        Paul Evans
   24.  105  SHLOMIF       Shlomi Fish
-  25.  102  LBROCARD      Leon Brocard
-  26.  102  SALVA         Salvador Fandino Garcia
+  25.  102  SALVA         Salvador Fandino Garcia
+  26.  102  LBROCARD      Leon Brocard
   27.  101  MRAMBERG      Marcus Ramberg
   28.  100  MLEHMANN      Marc Lehmann
 
-List last updated: 2014-05-31T05:34:43
+List last updated: 2014-06-01T07:48:10
 
 =head1 MAINTENANCE
 
@@ -109,7 +109,9 @@ please contact me as soon as possible, and I'll amend the entry right away.
 
 =head1 SEE ALSO
 
-L<Acme::CPANAuthors> - Main class to manipulate this one
+L<Acme::CPANAuthors> - Main class to manipulate this one.
+
+L<Acme::CPANAuthors::BackPAN::OneHundred> - 100+ distributions on BackPAN.
 
 =head1 SUPPORT
 

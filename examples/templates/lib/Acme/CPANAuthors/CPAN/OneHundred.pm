@@ -32,7 +32,7 @@ __END__
 
 =head1 NAME
 
-Acme::CPANAuthors::CPAN::OneHundred - Remembering our fallen heroes
+Acme::CPANAuthors::CPAN::OneHundred - The CPAN Authors who have 100+ distributions on CPAN
 
 =head1 DESCRIPTION
 

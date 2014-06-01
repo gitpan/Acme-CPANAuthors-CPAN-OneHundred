@@ -1,5 +1,8 @@
 Revision history for Acme-CPANAuthors-CPAN-OneHundred
 =====================================================
 
+1.01    2014-06-01
+        - #96117 - documentation fixes. (Thanks to Toby Inkster).
+
 1.00    2014-05-31
         - First version.
