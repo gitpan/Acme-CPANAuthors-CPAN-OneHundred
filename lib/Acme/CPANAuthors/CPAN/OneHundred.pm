@@ -4,39 +4,39 @@ use warnings;
 
 {
     no strict "vars";
-    $VERSION = "1.01";
+    $VERSION = "1.02";
 }
 
 use Acme::CPANAuthors::Register (
 
-    'SHARYANTO'     => 'Steven Haryanto',
-    'RJBS'          => 'Ricardo SIGNES',
-    'TOBYINK'       => 'Toby Inkster',
     'ADAMK'         => 'Adam Kennedy',
-    'MIYAGAWA'      => 'Tatsuhiko Miyagawa',
-    'FLORA'         => 'Florian Ragwitz',
-    'BINGOS'        => 'Chris Williams',
-    'SMUELLER'      => 'Steffen Mueller',
-    'TOKUHIROM'     => 'Tokuhiro Matsuno',
-    'INGY'          => 'Ingy dot Net',
-    'DAGOLDEN'      => 'David Golden',
-    'NUFFIN'        => 'Yuval Kogman',
-    'MARCEL'        => 'Marcel Gruenauer',
-    'BOBTFISH'      => 'Tomas Doran',
-    'ETHER'         => 'Karen Etheridge',
-    'DMAKI'         => 'Daisuke Maki',
-    'DROLSKY'       => 'Dave Rolsky',
-    'KENTNL'        => 'Kent Fredric',
-    'GUGOD'         => 'Liu Kang Min',
-    'SIMON'         => 'Simon Cozens',
     'AUTRIJUS'      => 'Audrey Tang',
     'BDFOY'         => 'brian d foy',
-    'PEVANS'        => 'Paul Evans',
-    'SHLOMIF'       => 'Shlomi Fish',
-    'SALVA'         => 'Salvador Fandino Garcia',
+    'BINGOS'        => 'Chris Williams',
+    'BOBTFISH'      => 'Tomas Doran',
+    'DAGOLDEN'      => 'David Golden',
+    'DMAKI'         => 'Daisuke Maki',
+    'DROLSKY'       => 'Dave Rolsky',
+    'ETHER'         => 'Karen Etheridge',
+    'FLORA'         => 'Florian Ragwitz',
+    'GUGOD'         => 'Liu Kang Min',
+    'INGY'          => 'Ingy dot Net',
+    'KENTNL'        => 'Kent Fredric',
     'LBROCARD'      => 'Leon Brocard',
-    'MRAMBERG'      => 'Marcus Ramberg',
+    'MARCEL'        => 'Marcel Gruenauer',
+    'MIYAGAWA'      => 'Tatsuhiko Miyagawa',
     'MLEHMANN'      => 'Marc Lehmann',
+    'MRAMBERG'      => 'Marcus Ramberg',
+    'NUFFIN'        => 'Yuval Kogman',
+    'PEVANS'        => 'Paul Evans',
+    'RJBS'          => 'Ricardo SIGNES',
+    'SALVA'         => 'Salvador Fandino Garcia',
+    'SHARYANTO'     => 'Steven Haryanto',
+    'SHLOMIF'       => 'Shlomi Fish',
+    'SIMON'         => 'Simon Cozens',
+    'SMUELLER'      => 'Steffen Mueller',
+    'TOBYINK'       => 'Toby Inkster',
+    'TOKUHIROM'     => 'Tokuhiro Matsuno',
 
 );
 
@@ -69,9 +69,9 @@ currently maintaining 100 or more distributions on CPAN.
 
 =head1 THE AUTHORS
 
-   1.  329  SHARYANTO     Steven Haryanto
+   1.  332  SHARYANTO     Steven Haryanto
    2.  274  RJBS          Ricardo SIGNES
-   3.  259  TOBYINK       Toby Inkster
+   3.  255  TOBYINK       Toby Inkster
    4.  248  ADAMK         Adam Kennedy
    5.  224  MIYAGAWA      Tatsuhiko Miyagawa
    6.  207  FLORA         Florian Ragwitz
@@ -79,26 +79,26 @@ currently maintaining 100 or more distributions on CPAN.
    8.  182  SMUELLER      Steffen Mueller
    9.  180  TOKUHIROM     Tokuhiro Matsuno
   10.  172  INGY          Ingy dot Net
-  11.  161  DAGOLDEN      David Golden
+  11.  160  DAGOLDEN      David Golden
   12.  158  NUFFIN        Yuval Kogman
   13.  157  MARCEL        Marcel Gruenauer
   14.  152  BOBTFISH      Tomas Doran
-  15.  132  ETHER         Karen Etheridge
-  16.  123  DMAKI         Daisuke Maki
-  17.  123  DROLSKY       Dave Rolsky
-  18.  121  KENTNL        Kent Fredric
+  15.  131  ETHER         Karen Etheridge
+  16.  124  DROLSKY       Dave Rolsky
+  17.  124  KENTNL        Kent Fredric
+  18.  123  DMAKI         Daisuke Maki
   19.  119  GUGOD         Liu Kang Min
   20.  118  SIMON         Simon Cozens
   21.  112  AUTRIJUS      Audrey Tang
   22.  112  BDFOY         brian d foy
   23.  107  PEVANS        Paul Evans
   24.  105  SHLOMIF       Shlomi Fish
-  25.  102  SALVA         Salvador Fandino Garcia
-  26.  102  LBROCARD      Leon Brocard
+  25.  102  LBROCARD      Leon Brocard
+  26.  102  SALVA         Salvador Fandino Garcia
   27.  101  MRAMBERG      Marcus Ramberg
   28.  100  MLEHMANN      Marc Lehmann
 
-List last updated: 2014-06-01T07:48:10
+List last updated: 2014-06-07T05:35:30
 
 =head1 MAINTENANCE
 

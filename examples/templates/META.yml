@@ -36,7 +36,7 @@ no_index:
 resources:
   license:    http://www.perlfoundation.org/artistic_license_2_0
   bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=Acme-CPANAuthors-CPAN-OneHundred
-  repository: http://github.com/barbie/Acme-CPANAuthors-CPAN-OneHundred
+  repository: http://github.com/barbie/acme-cpanauthors-cpan-onehundred
 
 meta-spec:
    version:   1.4
