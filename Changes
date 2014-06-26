@@ -1,6 +1,13 @@
 Revision history for Acme-CPANAuthors-CPAN-OneHundred
 =====================================================
 
+1.03    2014-06-26
+        [New Authors]
+        - BARBIE
+
+        [Updated Counts]
+        - SHARYANTO, TOBYINK, INGY, ETHER, KENTNL, PEVANS, SALVA
+
 1.02    2014-06-07
         - fix path to GitHub repo.
         - backup previous list (in the event we need to rerun).

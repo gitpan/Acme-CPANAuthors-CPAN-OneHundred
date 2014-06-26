@@ -4,13 +4,14 @@ use warnings;
 
 {
     no strict "vars";
-    $VERSION = "1.02";
+    $VERSION = "1.03";
 }
 
 use Acme::CPANAuthors::Register (
 
     'ADAMK'         => 'Adam Kennedy',
     'AUTRIJUS'      => 'Audrey Tang',
+    'BARBIE'        => 'Barbie',
     'BDFOY'         => 'brian d foy',
     'BINGOS'        => 'Chris Williams',
     'BOBTFISH'      => 'Tomas Doran',
@@ -69,36 +70,37 @@ currently maintaining 100 or more distributions on CPAN.
 
 =head1 THE AUTHORS
 
-   1.  332  SHARYANTO     Steven Haryanto
+   1.  343  SHARYANTO     Steven Haryanto
    2.  274  RJBS          Ricardo SIGNES
-   3.  255  TOBYINK       Toby Inkster
+   3.  257  TOBYINK       Toby Inkster
    4.  248  ADAMK         Adam Kennedy
    5.  224  MIYAGAWA      Tatsuhiko Miyagawa
    6.  207  FLORA         Florian Ragwitz
    7.  204  BINGOS        Chris Williams
    8.  182  SMUELLER      Steffen Mueller
    9.  180  TOKUHIROM     Tokuhiro Matsuno
-  10.  172  INGY          Ingy dot Net
+  10.  175  INGY          Ingy dot Net
   11.  160  DAGOLDEN      David Golden
   12.  158  NUFFIN        Yuval Kogman
   13.  157  MARCEL        Marcel Gruenauer
   14.  152  BOBTFISH      Tomas Doran
-  15.  131  ETHER         Karen Etheridge
-  16.  124  DROLSKY       Dave Rolsky
-  17.  124  KENTNL        Kent Fredric
+  15.  132  ETHER         Karen Etheridge
+  16.  126  KENTNL        Kent Fredric
+  17.  124  DROLSKY       Dave Rolsky
   18.  123  DMAKI         Daisuke Maki
   19.  119  GUGOD         Liu Kang Min
   20.  118  SIMON         Simon Cozens
   21.  112  AUTRIJUS      Audrey Tang
   22.  112  BDFOY         brian d foy
-  23.  107  PEVANS        Paul Evans
+  23.  109  PEVANS        Paul Evans
   24.  105  SHLOMIF       Shlomi Fish
-  25.  102  LBROCARD      Leon Brocard
-  26.  102  SALVA         Salvador Fandino Garcia
-  27.  101  MRAMBERG      Marcus Ramberg
-  28.  100  MLEHMANN      Marc Lehmann
+  25.  103  SALVA         Salvador Fandino Garcia
+  26.  102  BARBIE        Barbie
+  27.  102  LBROCARD      Leon Brocard
+  28.  101  MRAMBERG      Marcus Ramberg
+  29.  100  MLEHMANN      Marc Lehmann
 
-List last updated: 2014-06-07T05:35:30
+List last updated: 2014-06-26T05:37:23
 
 =head1 MAINTENANCE
 
