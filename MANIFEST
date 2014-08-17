@@ -1,5 +1,6 @@
 Changes
 examples/author_info
+examples/check100.pl
 examples/count
 examples/data/cpan100.csv
 examples/templates/LICENSE

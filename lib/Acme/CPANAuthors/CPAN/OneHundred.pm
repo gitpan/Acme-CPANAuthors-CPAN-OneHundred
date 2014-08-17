@@ -4,7 +4,7 @@ use warnings;
 
 {
     no strict "vars";
-    $VERSION = "1.03";
+    $VERSION = "1.04";
 }
 
 use Acme::CPANAuthors::Register (
@@ -70,37 +70,37 @@ currently maintaining 100 or more distributions on CPAN.
 
 =head1 THE AUTHORS
 
-   1.  343  SHARYANTO     Steven Haryanto
+   1.  375  SHARYANTO     Steven Haryanto
    2.  274  RJBS          Ricardo SIGNES
-   3.  257  TOBYINK       Toby Inkster
+   3.  260  TOBYINK       Toby Inkster
    4.  248  ADAMK         Adam Kennedy
    5.  224  MIYAGAWA      Tatsuhiko Miyagawa
    6.  207  FLORA         Florian Ragwitz
-   7.  204  BINGOS        Chris Williams
-   8.  182  SMUELLER      Steffen Mueller
-   9.  180  TOKUHIROM     Tokuhiro Matsuno
-  10.  175  INGY          Ingy dot Net
-  11.  160  DAGOLDEN      David Golden
+   7.  205  BINGOS        Chris Williams
+   8.  184  INGY          Ingy dot Net
+   9.  182  SMUELLER      Steffen Mueller
+  10.  180  TOKUHIROM     Tokuhiro Matsuno
+  11.  161  DAGOLDEN      David Golden
   12.  158  NUFFIN        Yuval Kogman
   13.  157  MARCEL        Marcel Gruenauer
   14.  152  BOBTFISH      Tomas Doran
-  15.  132  ETHER         Karen Etheridge
-  16.  126  KENTNL        Kent Fredric
+  15.  142  ETHER         Karen Etheridge
+  16.  136  KENTNL        Kent Fredric
   17.  124  DROLSKY       Dave Rolsky
   18.  123  DMAKI         Daisuke Maki
   19.  119  GUGOD         Liu Kang Min
   20.  118  SIMON         Simon Cozens
   21.  112  AUTRIJUS      Audrey Tang
   22.  112  BDFOY         brian d foy
-  23.  109  PEVANS        Paul Evans
-  24.  105  SHLOMIF       Shlomi Fish
-  25.  103  SALVA         Salvador Fandino Garcia
-  26.  102  BARBIE        Barbie
+  23.  112  PEVANS        Paul Evans
+  24.  108  BARBIE        Barbie
+  25.  105  SHLOMIF       Shlomi Fish
+  26.  103  SALVA         Salvador Fandino Garcia
   27.  102  LBROCARD      Leon Brocard
   28.  101  MRAMBERG      Marcus Ramberg
   29.  100  MLEHMANN      Marc Lehmann
 
-List last updated: 2014-06-26T05:37:23
+List last updated: 2014-08-17T05:30:41
 
 =head1 MAINTENANCE
 
