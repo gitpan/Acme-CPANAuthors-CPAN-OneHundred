@@ -1,6 +1,11 @@
 Revision history for Acme-CPANAuthors-CPAN-OneHundred
 =====================================================
 
+1.05    2014-10-04
+        [Updated Counts]
+        - SHARYANTO, RJBS, TOBYINK, INGY, TOKUHIROM, DAGOLDEN, KENTNL, ETHER,
+        PEVANS, BARBIE
+
 1.04    2014-08-17
         - fixed license fields in META.json to be lists.
         - added check100.pl script.
@@ -8,7 +13,7 @@ Revision history for Acme-CPANAuthors-CPAN-OneHundred
 
         [Updated Counts]
         - SHARYANTO, TOBYINK, BINGOS, INGY, DAGOLDEN, ETHER, KENTNL, PEVANS,
-        BARBIE
+        - BARBIE
 
 1.03    2014-06-26
         [New Authors]
